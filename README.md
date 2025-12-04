@@ -59,6 +59,3 @@ Outside of research, I cultivate a balance between discipline and creativity:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuchenkai1&show_icons=true&theme=minimal" alt="Stats" />
-</div>
