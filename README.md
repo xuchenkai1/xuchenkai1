@@ -6,10 +6,10 @@
 
 <div align="center">
   
-  <a href="mailto:your_email@sjtu.edu.cn">
+  <a href="132435xck@sjtu.edu.cn">
     <img src="https://img.shields.io/badge/Email-SJTU-0072c6?style=flat&logo=gmail" alt="Email" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+  <a href="[https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID](https://scholar.google.com/citations?user=UijP7hIAAAAJ&hl=en)">
     <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
   </div>
