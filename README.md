@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  <a href="132435xck@sjtu.edu.cn">
+  <a href="mailto:132435xck@sjtu.edu.cn">
     <img src="https://img.shields.io/badge/Email-SJTU-0072c6?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="[https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID](https://scholar.google.com/citations?user=UijP7hIAAAAJ&hl=en)">
