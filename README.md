@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Chenkai+Xu;AI+Researcher+@+SJTU;LLMs+%7C+Diffusion+Models+%7C+Robotics" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Chenkai Xu (徐晨凯)</h1>
+<h1 align="center">Chenkai Xu (徐晨开)</h1>
 
 <div align="center">
   
